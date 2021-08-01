@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FakeGMS</string>
+    <string name="xposed_description">Provides GmsCore_OpenSSL to devices without an updated version of Google Play Services.</string>
+</resources>
